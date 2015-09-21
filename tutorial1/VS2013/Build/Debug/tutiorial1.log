@@ -1,0 +1,13 @@
+﻿Build started 9/20/2015 10:56:02 PM.
+     1>Project "E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\tutiorial1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"../ThirdParty/glew-1.10.0/include" /I"../ThirdParty/glfw-3.0.4/include" /I../ThirdParty/glm /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Build/Debug/" /Fd"E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Build/Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Source\tutorial01.cpp
+         tutorial01.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Bin/tutiorial1-Debug.exe" /INCREMENTAL /NOLOGO /LIBPATH:"../ThirdParty/glew-1.10.0/lib/Release/Win32" /LIBPATH:"../ThirdParty/glfw-3.0.4/lib/Win32/lib-msvc110" opengl32.lib glew32s.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Bin/tutiorial1-Debug.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Bin/tutiorial1-Debug.lib" /MACHINE:X86 "E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Build/Debug/tutorial01.obj"
+         tutiorial1.vcxproj -> E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\/../Bin/tutiorial1-Debug.exe
+     1>Done Building Project "E:\OldCooler\Downloads\Courses\comp371\Fall 2015\tutorial1\VS2013\tutiorial1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.71
